@@ -162,6 +162,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Mellum 2.1](https://huggingface.co/collections/JetBrains/mellum21) - an assistant model trained by JetBrain
 - [MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3) - a native multimodal model with 1M context
 - [MiniMax-M2](https://huggingface.co/collections/MiniMaxAI/minimax-m2) - a collection of SOTA models for real-world dev & agents
+- [Flint](https://huggingface.co/RecursiveSI/flint) - a mixture-of-experts language model for coding agents
 - [Laguna-S-2.1](https://huggingface.co/poolside/Laguna-S-2.1) - a 118B total parameter Mixture-of-Experts model with 8B activated parameters per token, designed for agentic coding and long-horizon work
 - [SWE-FastContext](https://huggingface.co/collections/microsoft/swe-fastcontext) - a family of code-search models from Microsoft powering the Explore subagent for coding agents
 - [AesCode-32B](https://huggingface.co/microsoft/AesCode-32B) & [AesCode-8B](https://huggingface.co/microsoft/AesCode-8B) - models from Microsoft that generates information-rich visual artifacts such as slides, posters, and dashboards as HTML/CSS
